@@ -1,0 +1,40 @@
+/* Navigation menu */
+
+* {
+    font-family: 'Montserrat';
+}
+
+
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link,
+.nav-item {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+/* /Navigation menu */
+
+.home {
+    background-color: #F0F5F9;
+    padding: 150px 0 100px 0;
+}
+
+.feature {
+    background-color: #F0F5F9;
+}
+
+.reviews {
+    background-color: #F0F5F9;
+}
+
+.faq {
+    background-color: #F0F5F9;
+}
